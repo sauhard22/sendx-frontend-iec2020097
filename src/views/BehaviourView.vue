@@ -94,8 +94,8 @@ watch(selected, () => {
                     <div class="flex flex-col gap-[20px]">
                         <FormRadioButton v-model="selected[1].id" value="1" name="1" id="1" before-label="Enters website" />
                         <FormRadioButton v-model="selected[1].id" value="2" name="1" id="2" before-label="Exits website" />
-                        <FormRadioButton v-model="selected[1].id" value="3" name="1" id="3" after-label="seconds on website"
-                            before-label="After">
+                        <FormRadioButton v-model="selected[1].id" value="3" name="1" id="3" after-label="page scroll"
+                            before-label="On">
                             <template #middleElement>
                                 <NumberInput :fun="targerting1Value" :default-value="selected[1].value[1]"
                                     step-container-class="flex flex-col justify-center pr-[10px]" :show-step="true"
