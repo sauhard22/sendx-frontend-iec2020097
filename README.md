@@ -168,7 +168,7 @@ The web app will start running on http://localhost:5173 *(default)*
 
 ---
 
-## ⚙️ Folders 
+## ⚙️Folders 
 You can go to the respective folders by clicking to know more details.
 | Files                                                                                                                                                       
 | ---                                                                                                                                                                          
