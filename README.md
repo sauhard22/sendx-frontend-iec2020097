@@ -25,9 +25,14 @@
 </p>
 </div>
 
+## Portfolio
+
+### [My Personal Portfolio](https://sauhardsrivastava.netlify.app/)
+
 ---
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
+- [📹 Video Explantion](#-video-explantion)
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [📂 Folder Structure](#-folder-structure)
@@ -39,6 +44,11 @@
 - [👏 Acknowledgments](#-acknowledgments)
 
 ---
+
+## Video Explantion
+
+### [`Click here to see the video explanation`](https://drive.google.com/file/d/1y2RccAbeJhFMCTiKAEYye2J0xYcGRvLy/view?usp=sharing)
+
 ## 📍 Overview
 
 Created a comprehensive web application for generating no-code forms and landing pages tailored to your specific requirements. The application is powered by an incredibly robust drag-and-drop editor provided by Unlayer.
