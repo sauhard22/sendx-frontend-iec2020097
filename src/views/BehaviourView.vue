@@ -13,8 +13,8 @@ const selected = reactive({
     1: {
         id: null,
         value: {
-            1: '50',
-            2: '5'
+            1: "50",
+            2: "5"
         }
     },
     2: {
@@ -27,8 +27,12 @@ const selected = reactive({
     }
 })
 
-const targerting1Value = (val) => {
-    selected[1].value = val;
+const targerting11Value = (val) => {
+    selected[1].value[1] = val;
+}
+
+const targerting12Value = (val) => {
+    selected[1].value[2] = val;
 }
 
 const targeting2Value = (val) => {
@@ -97,7 +101,7 @@ watch(selected, () => {
                         <FormRadioButton v-model="selected[1].id" value="3" name="1" id="3" after-label="page scroll"
                             before-label="On">
                             <template #middleElement>
-                                <NumberInput :fun="targerting1Value" :default-value="selected[1].value[1]"
+                                <NumberInput :fun="targerting11Value" :default-value="selected[1].value[1]"
                                     step-container-class="flex flex-col justify-center pr-[10px]" :show-step="true"
                                     :show-precentage="true" />
                             </template>
@@ -105,7 +109,7 @@ watch(selected, () => {
                         <FormRadioButton v-model="selected[1].id" value="4" name="1" id="4" after-label="seconds on website"
                             before-label="After">
                             <template #middleElement>
-                                <NumberInput :fun="targerting1Value" :default-value="selected[1].value[2]"
+                                <NumberInput :fun="targerting12Value" :default-value="selected[1].value[2]"
                                     increase-step-container-class="h-[50%] flex justify-center items-center w-[15px] border-solid border-l-[2px] border-b-[1px]"
                                     decrease-step-container-class="h-[50%] flex justify-center items-center w-[15px] border-solid border-l-[2px] border-t-[1px]" />
                             </template>
