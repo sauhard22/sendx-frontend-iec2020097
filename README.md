@@ -24,22 +24,19 @@
 </div>
 
 ---
-
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [📂 Folder Structure](#-folder-structure)
+- - [⚙️ Folders](#-folder)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running the temporary server](#-running-the-temporary-server)
     - [🏃 Run the Vue Web App](#-run-the-vue-web-app)
-- [⚙️ Folders](#folders)
 - [👏 Acknowledgments](#-acknowledgments)
 
 ---
-
-
 ## 📍 Overview
 
 Created a comprehensive web application for generating no-code forms and landing pages tailored to your specific requirements. The application is powered by an incredibly robust drag-and-drop editor provided by Unlayer.
@@ -114,6 +111,18 @@ Created a comprehensive web application for generating no-code forms and landing
     └── vite.config.js
 
 ```
+---
+
+## ⚙️ Folder
+You can go to the respective folders by clicking to know more details.
+| Files                                                                                                                                                       
+| ---                                                                                                                                                                          
+| [components](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                 
+| [composables](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/composables)                                                                                                  
+| [router](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/router)                                                                                             
+| [views](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)
+| [store](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)  
+| [constants](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/constants)        
 
 ---
 
@@ -168,16 +177,9 @@ The web app will start running on http://localhost:5173 *(default)*
 
 ---
 
-## ⚙️ Folders 
-You can go to the respective folders by clicking to know more details.
-| Files                                                                                                                                                       
-| ---                                                                                                                                                                          
-| [components](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                 
-| [composables](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/composables)                                                                                                  
-| [router](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/router)                                                                                             
-| [views](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)
-| [store](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)  
-| [constants](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/constants)        
+## Authors
+
+- [@sauhard](https://www.github.com/sauhard22)
 
 ---
 
