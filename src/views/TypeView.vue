@@ -4,11 +4,17 @@ import TypeCard from '../components/TypeCard.vue';
 import Button from '../components/Button.vue';
 import Footer from '../components/Footer.vue';
 import { useRouter } from 'vue-router';
+import { store } from '../store';
 
 const router = useRouter();
 
 const handleContinue = () => {
-    router.push('/design')
+    if(store.userSelectedData.type === null){
+        alert('Please Select an Option');
+    }
+    else{
+        router.push('/design')
+    }
 }
 
 </script>

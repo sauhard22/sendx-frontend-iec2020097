@@ -34,6 +34,9 @@ const {error, loading, data} = useFetch("http://localhost:3000/templates");
         <div v-if="loading">
             <h1>Loading...</h1>
         </div>
+        <div v-else-if="error">
+            <h1>Error...</h1>
+        </div>
         <div v-else class="flex flex-row flex-wrap gap-[30px] mt-[30px]">
             <DesignCard @click="() => handleCardClick(item.id)" v-for="(item, i) in data" :name = "item.name" :imgSrc="item.img" :id="item.id" :key="i" />
         </div>

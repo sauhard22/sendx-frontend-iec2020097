@@ -3,11 +3,12 @@ defineProps({
     label: String,
     buttonClass: {
         type: String,
-        default: "",
+        default: "bg-white py-[5px] px-[10px] font-medium rounded-md text-[12px] border-solid border-[2px] ",
     }
 })
 
-const defaultClass = "font-[inter] font-medium bg-white py-[5px] px-[10px] rounded-md text-[12px] border-solid border-[2px] border-[#E4E6E8]"
+const defaultClass = "font-[inter] border-[#E4E6E8]"
+
 </script>
 <template>
     <button :class="[defaultClass, buttonClass]">
