@@ -3,8 +3,15 @@
 <img style="width: 100px" src="https://www.sendx.io/hubfs/SendPost_August2021/images/SendX-By-Logo.svg" width="100" />
 <br>sendx-frontend-iec2020097
 </h1>
-<h3>◦ ► INSERT-TEXT</h3>
-<h3>◦ Developed with the software and tools below.</h3>
+<p> 
+    <h1>Assignment Details</h1>
+    <ul align='left'>
+        <li>You need to create a largely pixel perfect design. You can use dummy images (placeholder images) for screen 2 & 3 ( the design & content screen ) for simplicity. </li><br>
+        <li>It will be better if you can create a simple API endpoint to which the entire configuration which the user selected can be sent via HTTP Post request. </li><br>
+        <li>Instead of using dummy images  for screen 2 & 3 if you can integrate with <a href="https://github.com/unlayer/vue-email-editor"> vue-email-editor </a> and use actual HTML for at least 1 form design which opens up in the content screen</li>
+    </ul>
+</p>
+<h3>Developed with the software and tools below</h3>
 
 <p align="center">
 <img style="width: 30px" src="https://img.icons8.com/?size=1x&id=108784&format=png" />
