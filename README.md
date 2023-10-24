@@ -156,6 +156,7 @@ npm install
 cd backend
 json-server --watch db.json
 ```
+For more information related to the backend please visit: [Backend](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/backend)
 
 ### 🏃 Run the Vue Web App
 
