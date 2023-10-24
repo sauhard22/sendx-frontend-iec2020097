@@ -173,11 +173,11 @@ You can go to the respective folders by clicking to know more details.
 | Files                                                                                                                                                       
 | ---                                                                                                                                                                          
 | [components](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                 
-| [composables](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                                                  
-| [router](https://github.com/sauhard22/asdasd/blob/main/index.html)                                                                                             
-| [views](https://github.com/sauhard22/asdasd/blob/main/package-lock.json)   
-|   [store](https://github.com/sauhard22/asdasd/blob/main/package-lock.json)  
-|[constants](https://github.com/sauhard22/asdasd/blob/main/package-lock.json)        
+| [composables](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/composables)                                                                                                  
+| [router](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/router)                                                                                             
+| [views](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)
+| [store](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/views)  
+| [constants](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/constants)        
 
 ---
 
