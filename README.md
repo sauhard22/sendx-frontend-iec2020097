@@ -29,7 +29,7 @@
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
-- [📂 Repository Structure](#-repository-structure)
+- [📂 Folder Structure](#-folder-structure)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running the temporary server](#-running-the-temporary-server)
