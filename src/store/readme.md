@@ -1,4 +1,4 @@
-# Store.js Documentation
+# Store
 
 ## Overview
 
