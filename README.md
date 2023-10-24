@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>ASDASD</h1>
+<img style="width: 100px" src="https://www.sendx.io/hubfs/SendPost_August2021/images/SendX-By-Logo.svg" width="100" />
+<br>sendx-frontend-iec2020097
+</h1>
 <h3>◦ ► INSERT-TEXT</h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
@@ -71,7 +72,7 @@ Created a comprehensive web application for generating no-code forms and landing
 ## 📂 Repository Structure
 
 ```sh
-└── asdasd/
+└── sendx-frontend-iec2020097/
     ├── db/
     │   └── db.json
     ├── index.html
@@ -126,17 +127,17 @@ Please ensure you have the following dependencies installed on your system:
 
 ### 🔧 Installation
 
-- Clone the asdasd repository:
+- Clone the sendx-frontend-iec2020097 repository:
 
 ```bash
-git clone https://github.com/sauhard22/asdasd
+git clone https://github.com/sauhard22/sendx-frontend-iec2020097
 
 ```
 
 - Change to the project directory:
 
 ```bash
-cd asdasd
+cd sendx-frontend-iec2020097
 ```
 
 - Install the modules
@@ -154,7 +155,7 @@ json-server --watch db.json
 
 ### 🏃 Run the Vue Web App
 
-- Go to the director asdasd (you can go manually or)
+- Go to the directory sendx-frontend-iec2020097 (you can go manually or)
 ```bash
 cd..
 ```
