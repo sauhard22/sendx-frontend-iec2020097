@@ -2,11 +2,11 @@
 Welcome to the documentation for our project views. Below is a list of key components used in the project.
 
 ## 📖 Table of Contents
-- [🔍 **BehaviourView**](#-behaviourview)
-- [📌 **ContentView**](#-contentview)
-- [🎨 **DesignView**](#-designview)
-- [🚀 **SuccessView**](#-successview)
-- [🔘 **TypeView**](#-typeview)
+- [🔍 **BehaviourView**](#behaviourview)
+- [📌 **ContentView**](#contentview)
+- [🎨 **DesignView**](#designview)
+- [🚀 **SuccessView**](#successview)
+- [🔘 **TypeView**](#typeview)
 
 ## BehaviourView
 
