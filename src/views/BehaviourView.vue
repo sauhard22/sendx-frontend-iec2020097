@@ -3,7 +3,6 @@ import { ref, reactive, watch } from 'vue';
 import { Icon } from '@iconify/vue';
 import { useRouter } from 'vue-router';
 import { store } from '../store';
-
 import NumberInput from '../components/NumberInput.vue'
 import FormRadioButton from '../components/FormRadioButton.vue'
 import TargetingForm from '../components/TargetingForm.vue';
@@ -38,9 +37,11 @@ const targeting3Value = (val) => {
 
 const showAdvanced = ref(false);
 const router = useRouter();
+
 const toggleAdvanced = () => {
     showAdvanced.value = !showAdvanced.value;
 }
+
 const handleContinue = async () => {
     await store.updateData('behaviour', selected);
     router.push("/success");

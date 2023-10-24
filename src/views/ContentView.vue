@@ -10,19 +10,13 @@ import { useFetch } from '../composables/useFetch';
 const editorRef = ref(null);
 const mountEditor = ref(null);
 const fileName = ref("New (25 Feb 2022, 14:20)");
-const route = useRoute();
-
-const templateId = ref(null);
-
-// console.log(templateId.value, "temp")
-
 const fetchData = reactive({
     loading: null,
     error: null,
     data: null
 })
 
-
+const route = useRoute();
 
 const router = useRouter();
 
@@ -45,16 +39,16 @@ const saveDesign = () => {
             name: fileName.value,
             design: design
         })
-        exportHtml();
+        router.push('/behaviour')
     });
 };
 
-const exportHtml = () => {
-    editorRef.value.editor.exportHtml((data) => {
-        router.push('/behaviour')
-        // console.log('exportHtml', data);
-    });
-};
+// const exportHtml = () => {
+//     editorRef.value.editor.exportHtml((data) => {
+//         router.push('/behaviour')
+//         // console.log('exportHtml', data);
+//     });
+// };
 
 const handleSaveAndContinue = () => {
     saveDesign();

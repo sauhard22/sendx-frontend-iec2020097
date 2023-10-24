@@ -50,7 +50,7 @@ const handleContinue = async () => {
                     </div>
                 </template>
             </TargetingForm>
-            <Footer @handleContinue="handleContinue" :show-back="true" @handleBack="handleBack" />
+            <Footer label="Finish"  @handleContinue="handleContinue" :show-back="true" @handleBack="handleBack" />
         </div>
     </div>
 </template>
