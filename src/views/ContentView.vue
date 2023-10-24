@@ -51,7 +51,7 @@ const saveDesign = () => {
 
 const exportHtml = () => {
     editorRef.value.editor.exportHtml((data) => {
-        router.push('/targeting')
+        router.push('/behaviour')
         // console.log('exportHtml', data);
     });
 };

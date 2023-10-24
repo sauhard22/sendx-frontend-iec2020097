@@ -21,7 +21,7 @@ const handleContinue = () => {
                 </h1>
             </div>
             <div class="flex flex-row gap-[20px]">
-                <TypeCard v-for="(item, i) in types" :src="item.src" :content="item.content" :label="item.label" :id="item.id" />
+                <TypeCard v-for="(item, i) in types" :src="item.src" :content="item.content" :label="item.label" :id="item.id" :key="i" />
             </div>
             <Footer @handleContinue="handleContinue" :show-back="false" />
         </div>

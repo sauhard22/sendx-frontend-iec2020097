@@ -3,8 +3,8 @@ import {createRouter, createWebHistory} from 'vue-router'
 import TypeView from '../views/TypeView.vue'
 import DesignView from '../views/DesignView.vue'
 import ContentView from '../views/ContentView.vue'
-import TargetingView from '../views/TargetingView.vue'
 import BehaviourView from '../views/BehaviourView.vue'
+import SuccessView from '../views/SuccessView.vue'
 
 const routes = [
     {
@@ -23,14 +23,14 @@ const routes = [
         component: ContentView
     },
     {
-        path: "/targeting",
-        name: "Targeting",
-        component: TargetingView
-    },
-    {
         path: "/behaviour",
         name: "Behaviour",
         component: BehaviourView
+    },
+    {
+        path: "/success",
+        name: "Success",
+        component: SuccessView
     },
 ]
 
