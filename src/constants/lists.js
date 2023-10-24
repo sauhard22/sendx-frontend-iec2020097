@@ -42,15 +42,18 @@ export const navbar_content = [
     },
     {
         label: "Campaigns",
-        showIcon: true
+        showIcon: true,
+        icon: "mingcute:down-fill"
     },
     {
         label: "Audience",
-        showIcon: true
+        showIcon: true,
+        icon: "mingcute:down-fill"
     },
     {
         label: "Automations",
-        showIcon: true
+        showIcon: true,
+        icon: "mingcute:down-fill"
     },
 ]
 

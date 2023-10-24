@@ -11,7 +11,7 @@ const route = useRoute();
             <h1 class="font-[inter] font-bold text-[15px]">{{route.name}}</h1>
         </div>
         <div>
-            <Breadcrumb :data="navigation" />
+            <Breadcrumb :selected="route.name" :data="navigation" />
         </div>
     </div>
 </template>

@@ -13,7 +13,17 @@ const routes = [
         component: TypeView
     },
     {
+        path: "/type/:pathMatch(.*)*",
+        name: "Type",
+        component: TypeView
+    },
+    {
         path: "/design",
+        name: "Design",
+        component: DesignView
+    },
+    {
+        path: "/design/:pathMatch(.*)*",
         name: "Design",
         component: DesignView
     },
@@ -28,10 +38,21 @@ const routes = [
         component: BehaviourView
     },
     {
+        path: "/behaviour/:pathMatch(.*)*",
+        name: "Behaviour",
+        component: BehaviourView
+    },
+    {
         path: "/success",
         name: "Success",
         component: SuccessView
     },
+    {
+        path: "/success/:pathMatch(.*)*",
+        name: "Success",
+        component: SuccessView
+    },
+    { path: '/:pathMatch(.*)*', name: 'Type', component: TypeView },
 ]
 
 const router = createRouter({

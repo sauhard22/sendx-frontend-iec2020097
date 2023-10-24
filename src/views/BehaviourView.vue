@@ -42,8 +42,8 @@ const toggleAdvanced = () => {
     showAdvanced.value = !showAdvanced.value;
 }
 const handleContinue = async () => {
-    await store.updateData('targeting', selected);
-    router.push("/behaviour");
+    await store.updateData('behaviour', selected);
+    router.push("/success");
 }
 
 const handleBack = () => {

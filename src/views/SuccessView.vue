@@ -25,14 +25,9 @@ const behaviourValue = (val) => {
 }
 
 const handleContinue = async () => {
-    await store.updateData('behaviour', selected);
+    await store.updateData('success', selected);
     const { response } = useApi("http://localhost:3000/userSelectedData", store.userSelectedData);
-    // console.log(response, "response")
 }
-
-// watch(store, (newVal, prevVal) => {
-//     console.log(newVal, prevVal);
-// })
 
 </script>
 

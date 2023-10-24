@@ -2745,10 +2745,10 @@
     "type": null,
     "design": null,
     "content": null,
-    "targeting": null,
-    "behaviour": {
-      "id": "1",
-      "value": null
+    "behaviour": null,
+    "success": {
+      "id": "2",
+      "value": 6
     }
   }
 }

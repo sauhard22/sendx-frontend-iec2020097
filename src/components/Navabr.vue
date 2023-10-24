@@ -11,7 +11,7 @@ import { navbar_content } from '../constants/lists';
                 <Icon class="text-[30px] text-white" icon="mdi:send" />
             </div>
             <div class="w-fit flex flex-row gap-[25px]">
-                <NavbarHeaders v-for="(item, i) in navbar_content" :label="item.label" :key="i" :showIcon="item.showIcon" />
+                <NavbarHeaders v-for="(item, i) in navbar_content" :label="item.label" :key="i" :icon="item.icon" :showIcon="item.showIcon" />
             </div>
         </div>
         <div class="flex flex-row items-center h-full gap-[15px]">

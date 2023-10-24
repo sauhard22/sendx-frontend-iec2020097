@@ -13,10 +13,6 @@
         store.updateData('type', e.target.value);
     }
 
-    // watch(store, (newVal, prevVal) => {
-    //     console.log(newVal, prevVal, "type");
-    // })
-
 </script>
 
 <template>

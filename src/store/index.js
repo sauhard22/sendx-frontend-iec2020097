@@ -5,8 +5,8 @@ export const store = reactive({
         'type': null,
         'design': null,
         'content': null,
-        'targeting': null,
-        'behaviour': null
+        'behaviour': null,
+        'success': null
     },
     updateData(property, data) {
         this.userSelectedData[property] = data;
