@@ -34,7 +34,7 @@
     - [🔧 Installation](#-installation)
     - [🤖 Running the temporary server](#-running-the-temporary-server)
     - [🏃 Run the Vue Web App](#-run-the-vue-web-app)
-- [⚙️ Folders](#-folders)
+- [⚙️ Folders](#folders)
 - [👏 Acknowledgments](#-acknowledgments)
 
 ---
@@ -168,7 +168,7 @@ The web app will start running on http://localhost:5173 *(default)*
 
 ---
 
-## ⚙️Folders 
+## ⚙️ Folders 
 You can go to the respective folders by clicking to know more details.
 | Files                                                                                                                                                       
 | ---                                                                                                                                                                          
