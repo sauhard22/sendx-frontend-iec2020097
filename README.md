@@ -7,20 +7,15 @@
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=flat-square&logo=PostCSS&logoColor=white" alt="PostCSS" />
-<img src="https://img.shields.io/badge/Autoprefixer-DD3735.svg?style=flat-square&logo=Autoprefixer&logoColor=white" alt="Autoprefixer" />
+<img style="width: 30px" src="https://img.icons8.com/?size=1x&id=108784&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=48&id=20909&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=80&id=eETV3RNHVrWA&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=80&id=joYylRnVLgzY&format=png" />
+<img style="width: 30px" src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" />
 
-<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat-square&logo=Axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white" alt="JSON" />
 </p>
-<img src="https://img.shields.io/github/license/sauhard22/asdasd?style=flat-square&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/sauhard22/asdasd?style=flat-square&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/sauhard22/asdasd?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/sauhard22/asdasd?style=flat-square&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
