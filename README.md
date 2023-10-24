@@ -153,7 +153,7 @@ npm install
 ### 🤖 Running the temporary server
 
 ```bash
-cd db
+cd backend
 json-server --watch db.json
 ```
 
