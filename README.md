@@ -69,7 +69,7 @@ Created a comprehensive web application for generating no-code forms and landing
 
 ---
 
-## 📂 Repository Structure
+## 📂 Folder Structure
 
 ```sh
 └── sendx-frontend-iec2020097/
