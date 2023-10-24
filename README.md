@@ -172,8 +172,8 @@ The web app will start running on http://localhost:5173 *(default)*
 You can go to the respective folders by clicking to know more details.
 | Files                                                                                                                                                       
 | ---                                                                                                                                                                          
-| [components](https://github.com/sauhard22/asdasd/blob/main/db-1698069408294.json)                                                                       
-| [composables](https://github.com/sauhard22/asdasd/blob/main/db.json)                                                                                                   
+| [components](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                 
+| [composables](https://github.com/sauhard22/sendx-frontend-iec2020097/tree/main/src/components)                                                                                                  
 | [router](https://github.com/sauhard22/asdasd/blob/main/index.html)                                                                                             
 | [views](https://github.com/sauhard22/asdasd/blob/main/package-lock.json)   
 |   [store](https://github.com/sauhard22/asdasd/blob/main/package-lock.json)  
