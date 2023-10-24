@@ -383,6 +383,10 @@ Render anything by mentioning the name #children.
 
 ## 🗂️ Type Card
 
+The custom card for making custom radio input.
+
+![typecard](https://github.com/sauhard22/readme/assets/73341891/0528898e-3845-4007-afe4-f2e855808353)
+
 ## Props
 
 ### `src` (`String`, *required*)
@@ -399,4 +403,31 @@ A unique identifier for the component, used for radio button selection.
 
 ### `handleChange` (`Function`, *optional*)
 A function that handles the change event when the radio button is selected.
+
+##### Example
+
+```bash
+const types = [
+    {
+        label: "Embedded Form",
+        content: "Create a form to embed on your website",
+        src: "../src/assets/embedded.png",
+        id: "embeded_form"
+    },
+    {
+        label: "Landing Page",
+        content: "Create a landing page with a form",
+        src: "../src/assets/landing.png",
+        id: "landing_page"
+    },
+    {
+        label: "Popup Form",
+        content: "Add a form that pops up as a box",
+        src: "../src/assets/pop_up.png",
+        id:"popup_form"
+    }
+]
+
+<TypeCard v-for="(item, i) in types" :src="item.src" :content="item.content" :label="item.label" :id="item.id" :key="i" />
+```
 
