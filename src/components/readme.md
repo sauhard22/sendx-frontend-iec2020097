@@ -21,7 +21,7 @@ Welcome to the documentation for our project components. Below is a list of key 
 
 The Breadcrumb Header component is a Vue.js component designed to display breadcrumb navigation in your web application. Breadcrumbs are a useful way to indicate the current page's location within the navigational hierarchy, allowing users to understand their position in the application.
 
-![breadcrumb](https://github.com/sauhard22/readme/assets/73341891/cf472d18-3ea9-46cb-87c9-51dca1f13109)
+![breadcrumb](https://github.com/sauhard22/readme/assets/73341891/08b5a5d4-ffb2-430d-b749-dd76e33481aa)
 
 ## Props
 
@@ -95,7 +95,7 @@ cosnt selected = route.name
 
 The single unit of breadcrumb component.
 
-![breadcrumb_header](https://github.com/sauhard22/readme/assets/73341891/e92c1329-3478-4863-9d4f-f65f8116b46e)
+![breadcrumb_header](https://github.com/sauhard22/readme/assets/73341891/e29154b2-99ef-4e68-9218-2df829a720ff)
 
 ## Props
 
@@ -128,7 +128,7 @@ The index of the item in the list. Used for comparison with the `views` constant
 ## 🔘 Button
 The Button component is a versatile Vue.js-based element that allows you to create customized buttons for your web application. 
 
-![button](https://github.com/sauhard22/readme/assets/73341891/1caee224-12ec-4ff9-8587-0b97b925fcff)
+![button](https://github.com/sauhard22/readme/assets/73341891/6bef4d8d-5942-496e-9992-8532ddc844a8)
 
 ## Props
 
@@ -147,7 +147,7 @@ Additional custom CSS classes to be applied to the button. This allows for furth
 ## 🎨 DesignCard
 The Design Card component is a Vue.js-based card element crafted for showcasing template options.
 
-![design_card](https://github.com/sauhard22/readme/assets/73341891/263e95ad-7dad-4a92-b8fd-41eba9267e46)
+![design_card](https://github.com/sauhard22/readme/assets/73341891/2aaa4147-45e0-4985-87b8-1ea5037789b2)
 
 ## Props
 
@@ -170,7 +170,7 @@ A unique identifier for the design card.
 
 The footer navigation of the pages/views
 
-![footer](https://github.com/sauhard22/readme/assets/73341891/ac5e9bc4-f89e-4a28-98c6-889ad162e7af)
+![footer](https://github.com/sauhard22/readme/assets/73341891/db57787e-f6c2-48c9-b24a-c149fb1d9a4f)
 
 ## Props
 
@@ -195,7 +195,7 @@ Emitted when the "Continue" button is clicked. You can attach a method to handle
 
 The Form Radio Button component is a Vue.js-based element designed to represent a radio button within a form. It helps us to insert any this in our input label.
 
-![form_radio_button](https://github.com/sauhard22/readme/assets/73341891/4e89367c-7800-45e4-b222-fdc21a8da744)
+![form_radio_button](https://github.com/sauhard22/readme/assets/73341891/7e0191dc-4982-49cb-a06d-eadf9452dd8a)
 
 
 ## Props
@@ -240,7 +240,7 @@ Emitted when the radio input value changes. Use this event to sync the `modelVal
 ## 🧭 NavbarHeaders
 This component is for the headers present in the navbar.
 
-![dropdown](https://github.com/sauhard22/readme/assets/73341891/1cd288de-d350-4c4d-86a4-d06df733cdd4)
+![dropdown](https://github.com/sauhard22/readme/assets/73341891/f9834ca2-d882-4ada-889c-d7fadeff36d7)
 
 ## Props
 
@@ -286,11 +286,11 @@ const navbar_content = [
 
 The Numeric Input component is a Vue.js-based input element that allows users to enter numeric values within a specified range. It includes optional increase and decrease buttons for easy value adjustment, making it ideal for various interactive applications. (It only accepts numbers)
 
-![numberinput2](https://github.com/sauhard22/readme/assets/73341891/5fdb8834-26b6-4b10-91e4-046568f61f37)
+![numberinput2](https://github.com/sauhard22/readme/assets/73341891/fe55d295-4ceb-4734-8ba2-95c809c47d3e)
 
-![numberinput3](https://github.com/sauhard22/readme/assets/73341891/da2445d8-becf-441b-8390-7145fe731148)
+![numberinput3](https://github.com/sauhard22/readme/assets/73341891/707cfe9c-8f24-4458-85f1-77008d7868db)
 
-![NumberInput1](https://github.com/sauhard22/readme/assets/73341891/337ef393-e69d-446a-aa68-9d8f3fceec73)
+![NumberInput1](https://github.com/sauhard22/readme/assets/73341891/8b99f5da-9aed-427b-85f4-c61b46d91d22)
 
 ## Props
 
@@ -336,7 +336,7 @@ The default value displayed in the input field.
 
 It helps to render anything inside it self providing the same style and code reusability. 
 
-![targeting_form](https://github.com/sauhard22/readme/assets/73341891/14505d74-df0d-41c7-9727-914a5863cbcf)
+![targeting_form](https://github.com/sauhard22/readme/assets/73341891/4b0fbc0b-4f6b-4f3f-b24c-34fcd2da3335)
 
 ## Props
 
@@ -385,7 +385,7 @@ Render anything by mentioning the name #children.
 
 The custom card for making custom radio input.
 
-![typecard](https://github.com/sauhard22/readme/assets/73341891/0528898e-3845-4007-afe4-f2e855808353)
+![typecard](https://github.com/sauhard22/readme/assets/73341891/b3922e26-bbbf-4017-a6c6-3e6e243cf98b)
 
 ## Props
 
